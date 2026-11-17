@@ -1,0 +1,13 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,5,thua,AnhVuTaXuan,"Box motorbike 0.45 thừa trên nền đường trống (bẫy extra bị lọt khi review)"
+img_003.jpg,23,thua,AnhVuTaXuan,"Box three_wheeler 0.20 của YOLOE đè nhầm lên xe máy #4"
+img_003.jpg,24,thua,AnhVuTaXuan,"Box three_wheeler 0.21 trùng lặp với #26 trên cùng xe đẩy hàng"
+img_003.jpg,25,thua,AnhVuTaXuan,"Box three_wheeler 0.80 trùng lặp phần thùng dưới của cùng xe đẩy #26"
+img_006.jpg,,khong,AnhVuTaXuan,"Sạch; người bán hàng dắt xe đạp #95/#87 và các xe máy đỗ sát đúng guideline"
+img_013.jpg,136,thua,AnhVuTaXuan,"Box motorbike 0.21 chồng lặp với #137/#141 trên cùng xe máy đậu phía sau tuk-tuk"
+img_014.jpg,,khong,AnhVuTaXuan,"Sạch; box người gánh hàng #158 và các xe máy đều ôm sát và đúng lớp"
+img_022.jpg,298,thua,AnhVuTaXuan,"Box three_wheeler 0.22 của YOLOE chụp trùm nhầm lên cụm xe máy #300/#294 và người #301 trong ảnh đêm"
+img_023.jpg,310,sai_vi_tri_kich_thuoc,AnhVuTaXuan,"Box three_wheeler 0.18 lỏng mép trên-trái ôm thừa khoảng trống tường bê tông và bồn cây"
+img_023.jpg,312,sai_vi_tri_kich_thuoc,AnhVuTaXuan,"Box car 0.42 ở góc trên-phải bị cắt mép ảnh chỉ cao 15.1px (< 20px theo mục 4.1.6)"
+img_034.jpg,583,sai_lop,AnhVuTaXuan,"Box #583 gắn bicycle (can_review) nhưng thực tế là xe máy/xe điện có biển số 29 ở lề phải"
+img_035.jpg,,khong,AnhVuTaXuan,"Sạch; xích lô phía xa và người đi bộ/xe máy vỉa hè đều đúng chuẩn"
