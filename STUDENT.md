@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Tạ Xuân Anh Vũ
+- MSHV: 2A202603173
+- Lớp (L2 / L3 / khác): L2
+- Tài khoản GitHub: AnhVuTaXuan
+- Repo bài nộp (URL): https://github.com/AnhVuTaXuan/K5-L23-Day08-TAXUANANHVU-2A202603173-AI-Assisted-Labeling
+- Commit chốt bài (hash): <<cập nhật trước khi nộp>>
+- Máy: Windows + WSL2 (Ubuntu 26.04), GPU NVIDIA T1200 Laptop GPU (4GB VRAM, CUDA)
+- CVAT (Docker): v2.74.1
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
