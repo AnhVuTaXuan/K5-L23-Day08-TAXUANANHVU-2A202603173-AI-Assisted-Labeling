@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: AnhVuTaXuan
 - Repo bài nộp (URL): https://github.com/AnhVuTaXuan/K5-L23-Day08-TAXUANANHVU-2A202603173-AI-Assisted-Labeling
-- Commit chốt bài (hash): pending-final-commit
+- Commit chốt bài (hash): 68996a0
 - Máy: Windows + WSL2 (Ubuntu 26.04), GPU NVIDIA T1200 Laptop GPU (4GB VRAM, CUDA)
 - CVAT (Docker): v2.74.1
 
